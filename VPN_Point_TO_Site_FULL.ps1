@@ -3,7 +3,7 @@
 #Blog: Https://eduardokieling.com
 #Microsoft Azure MVP
 #############################################################################################################
-#>>>Create a certificate root and client + Key para PointTOSite VPN on Azure<<<
+#>>>Create a certificate root and client + Key For PointTOSite VPN on Azure<<<
 #############################################################################################################
 #
 ################################################################
